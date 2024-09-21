@@ -1,0 +1,8 @@
+Total Principal : 
+Principal{ name = qegqweg BasicSalary = 3.0 }
+Total Students : 
+Student{Id=111, Name=ggg, Level=333}
+Total Teachers : 
+Teacher{name = wrghwrhg Id = 3 Address = 3 PhoneNumber =3 Email =3 BasicSalary = 3.0 LiveExpensive = 0.30000000000000004 }:
+Total Subjects : 
+Subject{SubjectNAme = java, Teacher = Teacher{name = wrghwrhg Id = 3 Address = 3 PhoneNumber =3 Email =3 BasicSalary = 3.0 LiveExpensive = 0.30000000000000004 }, Student = Student{Id=111, Name=ggg, Level=333}}
